@@ -1,6 +1,6 @@
 {
   "name": "@josegm/tailwindcss-custom-themes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Tailwind CSS themes switcher",
   "main": "index.js",
   "keywords": [
