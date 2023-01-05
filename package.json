@@ -1,0 +1,16 @@
+{
+  "name": "@josegm/tailwindcss-custom-themes",
+  "version": "1.0.0",
+  "description": "Simple Tailwind CSS themes switcher",
+  "main": "index.js",
+  "keywords": [
+    "Tailwind",
+    "CSS",
+    "Theme"
+  ],
+  "author": "Jose María Gómez",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
