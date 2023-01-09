@@ -1,4 +1,4 @@
-# Apply themes to your Tailwind CSS 💅🏻
+# Apply themes to Tailwind CSS 💅🏻
 
 This Tailwind CSS plugin can be used to create custom themes and apply styles just like native dark mode.
 Just use your theme as an usual Tailwind CSS variant.
@@ -8,7 +8,7 @@ Just use your theme as an usual Tailwind CSS variant.
 First, you need to have [Tailwind CSS](https://tailwindcss.com/) installed. Then, install the plugin by running this command:
 
 ```bash
-npm install @josegm/tailwind-custom-themes
+npm install tailwindcss-themes
 ```
 
 ### Configuration
@@ -20,7 +20,7 @@ module.exports = {
   theme: {
     themeClasses: ['retro', 'minimal'], // All themes you want to use
   },
-  plugins: [require('@josegm/tailwind-custom-themes')],
+  plugins: [require('tailwindcss-themes')],
 };
 ```
 
